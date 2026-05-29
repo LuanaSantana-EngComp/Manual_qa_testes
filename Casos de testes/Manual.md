@@ -20,7 +20,7 @@ Todo caso de teste deve conter informações claras e objetivas para facilitar a
 CT-001 — Login com credenciais válidas
 
 ### Objetivo
-Validar que o usuário consiga acessar o sistema com login válido.
+      Validar que o usuário consiga acessar o sistema com login válido.
 
 ### Pré-condição
       Dado que o usuário esteja cadastrado no sistema
@@ -37,4 +37,20 @@ Validar que o usuário consiga acessar o sistema com login válido.
      E redirecionar o usuário para a página inicial
 
 ###  Status
-Não Executado
+     Não Executado
+
+
+## 💡 Boas Práticas
+- Criar títulos objetivos;
+- Utilizar linguagem clara;
+- Manter os passos organizados;
+- Validar apenas um objetivo por caso de teste;
+- Utilizar BDD quando possível;
+- Adicionar evidências após execução.
+
+## 🚫 O que Evitar
+- Casos de teste genéricos;
+- Muitos objetivos no mesmo teste;
+- Passos incompletos;
+- Falta de resultado esperado;
+- Cenários sem pré-condição.
