@@ -1,4 +1,4 @@
-# 🐞 Manual de Report de Bugs
+# 🐞 Manual de Reporte de Bugs
 
 ## Objetivo
 Este manual tem como objetivo padronizar o processo de reporte de bugs, facilitando a identificação, reprodução e correção de problemas encontrados no sistema.
@@ -44,7 +44,7 @@ Todo report de bug deve conter as seguintes informações:
  **5. Resultado esperado**
 - Descrever o comportamento correto esperado.
 
-        Exemplo: O sistema deve realizar o login e redirecionar o usuário para a página inicial._
+        Exemplo: O sistema deve realizar o login e redirecionar o usuário para a página inicial.
 
  
  **6. Evidências**
