@@ -1,6 +1,6 @@
 ## Funcionalidade: [Nome da Funcionalidade] 
 
-**Cenário-00: [Nome do Cenário]** 
+**Cenário 00: [Nome do Cenário]** 
 
       Dado que ... 
       E ... 
