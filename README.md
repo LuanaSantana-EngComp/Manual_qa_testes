@@ -10,7 +10,7 @@ Este projeto tem como objetivo servir como guia de apoio para:
 ## 📂 Estrutura do Projeto
 
 ```bash
-bug-reports/
+Reportar bugs/
 ```
 
 ## 🐞 Report de Bugs
