@@ -5,11 +5,11 @@ Este repositório tem como objetivo servir como guia de apoio para profissionais
 
 Aqui você encontrará:
 
-- Manuais
-- Templates para documentação de testes
-- Exemplos utilizando BDD (Behavior Driven Development)
-- Boas práticas
-- Classificação de Severidade e Prioridade
+    ✅ Casos de Teste
+    ✅ BDD (Behavior Driven Development)
+    ✅ Report de Bugs
+    ✅ Severidade e Prioridade
+    🚧 Novos conteúdos em desenvolvimento
 
 
 ## 📂 Estrutura do Projeto
