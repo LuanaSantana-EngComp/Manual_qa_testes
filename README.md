@@ -26,18 +26,6 @@ Reportar bugs/
 └── Template.md
 ```
 
-## 🐞 Report de Bugs
-O report de bug deve conter:
-
-- Título claro
-- Passos para reprodução
-- Resultado atual
-- Resultado esperado
-- Evidências (prints/vídeos)
-- Ambiente
-- Severidade/Prioridade
-
-
 ## 📝 Autora
 
 **Luana Santana**  
