@@ -77,4 +77,4 @@ Todo report de bug deve conter as seguintes informações:
 - Teste novamente antes de abrir o bug.
 
 ## 📌 Observação
-- Um bug bem documentado reduz o tempo de análise e acelera o processo de correção pela equipe de desenvolvimento.
+Um bug bem documentado reduz o tempo de análise e acelera o processo de correção pela equipe de desenvolvimento.
