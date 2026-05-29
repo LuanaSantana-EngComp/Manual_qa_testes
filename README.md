@@ -24,6 +24,7 @@ O report de bug deve conter:
 - Severidade/Prioridade
 
 ## 📝 Autora
+
 **Luana Santana**
 Engenharia da Computação | Qualidade de Software (QA)
 
