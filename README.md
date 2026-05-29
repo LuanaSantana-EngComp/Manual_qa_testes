@@ -12,6 +12,7 @@ Este projeto tem como objetivo servir como guia de apoio para:
 ```bash
 bug-reports/
 ```
+
 ## 🐞 Report de Bugs
 O report de bug deve conter:
 
@@ -24,7 +25,5 @@ O report de bug deve conter:
 - Severidade/Prioridade
 
 ## 📝 Autora
-
 **Luana Santana**
 Engenharia da Computação | Qualidade de Software (QA)
-
