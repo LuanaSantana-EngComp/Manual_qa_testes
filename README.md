@@ -1,18 +1,29 @@
-# ⚠️ EM CONSTRUÇÃO
-
-# Manual_qa_testes
-Repositório com boas práticas, modelos e processos para execução de testes manuais e garantia da qualidade de software (QA).
+# 🚧 Em construção 🚧
 
 ## 📌 Objetivo
-Este projeto tem como objetivo servir como guia de apoio para:
+Este repositório tem como objetivo servir como guia de apoio para profissionais de QA, estudantes e equipes de desenvolvimento, reunindo materiais, templates e boas práticas relacionadas à qualidade de software.
 
-- Report de bugs
-- Criação de casos de teste
+Aqui você encontrará:
+
+- Manuais
+- Templates para documentação de testes
+- Exemplos utilizando BDD (Behavior Driven Development)
+- Boas práticas
+- Classificação de Severidade e Prioridade
+
 
 ## 📂 Estrutura do Projeto
 
 ```bash
+Casos de testes/
+├── Manual com BDD.md
+├── Manual.md
+├── Template com BDD.md
+└── Template.md
+
 Reportar bugs/
+├── Manual.md
+└── Template.md
 ```
 
 ## 🐞 Report de Bugs
