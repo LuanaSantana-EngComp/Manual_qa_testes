@@ -8,6 +8,8 @@ Aqui você encontrará:
     ✅ Casos de Teste
     ✅ BDD (Behavior Driven Development)
     ✅ Report de Bugs
+    ✅ Boas Praticas
+    ✅ O que evitar
     ✅ Severidade e Prioridade
     🚧 Novos conteúdos em desenvolvimento
 
