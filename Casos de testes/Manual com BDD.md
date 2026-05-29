@@ -11,7 +11,7 @@ Os cenários são escritos utilizando as palavras-chave:
     Então (Then) → Resultado esperado.
     E (And) → Complemento de uma condição ou ação.
 
-## Estrutura Básica
+## 📋 Estrutura Básica
 
 _Exemplo 1 - Login com Sucesso_
 
@@ -37,7 +37,7 @@ _Exemplo 2 - Login com Senha Inválida_
     E clicar no botão "Entrar"
     Então o sistema deve exibir a mensagem "Usuário ou senha inválidos"
 
-## Boas Práticas
+## 💡 Boas Práticas
 - Escreva cenários simples e objetivos;
 - Utilize linguagem de negócio;
 - Crie apenas um objetivo por cenário;
