@@ -1,4 +1,4 @@
-## CT- 000 — [Título do Caso de Teste]
+## CT-000 — [Título do Caso de Teste]
 
 ### Objetivo 
 [Descreva o objetivo]
