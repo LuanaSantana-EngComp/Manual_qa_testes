@@ -1,6 +1,6 @@
 # 🧪 Criação de Casos de Testes
 
-## Objetivo
+## 📌 Objetivo
 Os casos de teste têm como objetivo validar funcionalidades do sistema, garantindo que os requisitos estejam funcionando conforme esperado.
 
 ## 📋 Estrutura de um Caso de Teste
