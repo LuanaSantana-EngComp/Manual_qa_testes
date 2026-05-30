@@ -1,6 +1,6 @@
 # 🐞 Manual de Reporte de Bugs
 
-## Objetivo
+## 📌 Objetivo
 Este manual tem como objetivo padronizar o processo de reporte de bugs, facilitando a identificação, reprodução e correção de problemas encontrados no sistema.
 
 ## 📋 Antes de Reportar um Bug
